@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"95107d0793cce1cd","type":"text","text":"Inicio do Repositório","x":-560,"y":-400,"width":220,"height":60},
+		{"id":"06e13618c258ff9e","type":"text","text":"Modificado\nModified","x":-135,"y":-300,"width":150,"height":60},
+		{"id":"696437958279343e","type":"text","text":"Working Diretory","x":-220,"y":-400,"width":200,"height":60},
+		{"id":"aef989943d5bd4f2","type":"text","text":"Stage Area","x":95,"y":-400,"width":145,"height":60},
+		{"id":"3ccdd351625ecd9e","type":"text","text":"Repository","x":380,"y":-400,"width":140,"height":60},
+		{"id":"d13527e163c554ef","type":"text","text":"No histórico\nCommited","x":373,"y":-300,"width":155,"height":60},
+		{"id":"60f099309a893bdd","type":"text","text":"Preparado\nStaged","x":98,"y":-300,"width":140,"height":60}
+	],
+	"edges":[
+		{"id":"9f44ff3aa5c534ab","fromNode":"95107d0793cce1cd","fromSide":"right","toNode":"696437958279343e","toSide":"left","label":"init"},
+		{"id":"f192f658c2259c20","fromNode":"696437958279343e","fromSide":"right","toNode":"aef989943d5bd4f2","toSide":"left","label":"add"},
+		{"id":"a0c27e742d32c857","fromNode":"aef989943d5bd4f2","fromSide":"right","toNode":"3ccdd351625ecd9e","toSide":"left","label":"commit"}
+	]
+}
