@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "0a853f197ecd4a3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "870083c0f347ec1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "496be78dc8b18128",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe92267bc590bd14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Frontend.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fe2d6b5d252d5fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3926c9ed18ca08ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c2c4c8cedebd6a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb3e76447ee21589",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b9e8f1e53c27b235",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.5
+  },
+  "right": {
+    "id": "4a0816e1148a3e12",
+    "type": "split",
+    "children": [
+      {
+        "id": "eeab97f3ce2891af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e0387761a25e654",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84b5134cb46b964f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e4b88b8bca0359f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ec2630d5b97becbe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "12c42eee840b9290",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab2529c70d4d3980",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "switcher:Abrir a troca rápida": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "496be78dc8b18128",
+  "lastOpenFiles": [
+    "Frontend/Frontend.md",
+    "Frontend",
+    "Backend/Backend.md",
+    "Logs/2023-12-17.md",
+    "Basico/Sites Interessantes.md",
+    "Backend/Controllers.md",
+    "Backend/Body Params.md",
+    "Backend/API.md",
+    "Basico/JavaScript/DOM.md",
+    "Basico/JavaScript/ES Modules.md",
+    "Backend/Middleware.md",
+    "Backend/Método PUT.md",
+    "Backend/Método POST.md",
+    "Backend/Método GET.md",
+    "Backend/Método DELETE.md",
+    "Backend/Estrutura Inicial de um projeto.png",
+    "Basico/CSS/Media Queries.md",
+    "Banco de Dados/Criação básica de um banco de dados.md",
+    "Banco de Dados/Banco de Dados.md",
+    "Backend/Node.js.md",
+    "Banco de Dados/Migrations.md",
+    "Backend/Requisições.md",
+    "Backend/Query Params.md",
+    "Backend/Route Params.md",
+    "Web/HTTP.md",
+    "Métodos.md",
+    "Logs/2023-12-14.md",
+    "Git e Github/Git.md",
+    "Banco de Dados",
+    "Codigos/Backend/Projeto 1/node_modules/setprototypeof/index.d.ts",
+    "Codigos/Backend/Projeto 1/node_modules/express-async-errors/yarn.lock",
+    "Codigos/Backend/Projeto 1/node_modules/express-async-errors/test.js",
+    "Codigos/Backend/Projeto 1/node_modules/express-async-errors/index.js",
+    "Codigos/Backend/Projeto 1/node_modules/express-async-errors/package.json",
+    "Codigos/Backend/Projeto 1/node_modules/express-async-errors",
+    "Codigos/Backend/node_modules/qs/dist/qs.js",
+    "Codigos/Backend/node_modules/qs/dist",
+    "Codigos/Basico/Projeto 6/assets/camera.svg",
+    "Codigos/Basico/Projeto 6/assets/avatar.png",
+    "Codigos/Basico/Projeto 5/image 1.jpg",
+    "Git e Github/Estágios do Arquivo.canvas",
+    "Sem título 1.canvas",
+    "Codigos/Projeto 6/assets/avatar.png",
+    "Codigos/Projeto 6/assets/Jojo.png",
+    "Codigos/Projeto 6/assets/camera.svg",
+    "Codigos/Projeto 5/image 1.jpg"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Web  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Basico/CSS  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Basico/HTML  ",
+      "color": {
+        "a": 1,
+        "rgb": 14619362
+      }
+    },
+    {
+      "query": "path:Basico/JavaScript  ",
+      "color": {
+        "a": 1,
+        "rgb": 16746496
+      }
+    },
+    {
+      "query": "path:Logs  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Basico  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"Git e Github\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:Backend  ",
+      "color": {
+        "a": 1,
+        "rgb": 12999
+      }
+    },
+    {
+      "query": "path:\"Banco de Dados\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16771584
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.01875,
+  "lineSizeMultiplier": 1.4015625,
+  "collapse-forces": false,
+  "centerStrength": 0.359375,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 248,
+  "scale": 0.27268599173601155,
+  "close": true
+}
