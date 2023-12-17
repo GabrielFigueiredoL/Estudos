@@ -1,0 +1,3 @@
+O JavaScript é uma liguagem interpretada baseada em objetos com [[Funções]].
+Essas funções podem fazer a [[Manipulação de dados]] baseado nos [[Tipos de Dados]] a partir de [[Eventos]] podendo gerar outros eventos. A [[DOM]] é a representação de dados dos objetos que compõem a estrutura e o conteúdo de um documento na Web.
+É possível modular, dividir o código JS em outros pequenos códigos que juntos se tornam um só. É utilizado o [[ES Modules]] para o JS convencional e o [[React]] como biblioteca, que gira entorno de uma [[Single Page Application (SPA)]] .
