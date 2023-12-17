@@ -1,0 +1,1 @@
+Computador configurado para receber os pedidos e enviar respostas aos pedidos
