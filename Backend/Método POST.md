@@ -1,0 +1,1 @@
+O `POST`, ao contrário do `GET`, envia os parâmetros no corpo da **requisição HTTP** por meio do [[Body Params]].

@@ -1,0 +1,1 @@
+Ambiente que oferece recursos que permite escrever e executar aplicações [[JavaScript]]
