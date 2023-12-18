@@ -1,0 +1,1 @@
+[[CSS]]-in-JS aproveita métodos atuais de componentização em [[JavaScript]] para criar Componentes perfomáticos a prova de colisão, sem interferir em outros componentes. O [[Styled Components]] é um exemplo de CSS-in-JS.

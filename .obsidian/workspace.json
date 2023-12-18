@@ -4,24 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "870083c0f347ec1b",
+        "id": "89d52178fa061970",
         "type": "tabs",
         "children": [
           {
-            "id": "496be78dc8b18128",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "fe92267bc590bd14",
+            "id": "1f6d6311e82b84ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Frontend.md",
+                "file": "Logs/2023-12-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Logs/2023-12-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Logs/2023-12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Logs/2023-12-18.md"
+              }
             }
           },
           {
@@ -169,12 +165,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "496be78dc8b18128",
+  "active": "1f6d6311e82b84ad",
   "lastOpenFiles": [
+    "Logs/2023-12-18.md",
+    "Logs/2023-12-17.md",
+    "Basico/HTML/Single Page Application (SPA).md",
+    "Basico/JavaScript/CSS-in-JS.md",
+    "Frontend/Componentes.md",
+    "Frontend/Styled Components/Styled Components.md",
+    "Frontend/React.md",
     "Frontend/Frontend.md",
+    "Basico/CSS/Responsividade.md",
+    "Frontend/Styled Components/Tema global.md",
+    "Frontend/Styled Components",
     "Frontend",
     "Backend/Backend.md",
-    "Logs/2023-12-17.md",
     "Basico/Sites Interessantes.md",
     "Backend/Controllers.md",
     "Backend/Body Params.md",
@@ -191,14 +196,6 @@
     "Banco de Dados/Criação básica de um banco de dados.md",
     "Banco de Dados/Banco de Dados.md",
     "Backend/Node.js.md",
-    "Banco de Dados/Migrations.md",
-    "Backend/Requisições.md",
-    "Backend/Query Params.md",
-    "Backend/Route Params.md",
-    "Web/HTTP.md",
-    "Métodos.md",
-    "Logs/2023-12-14.md",
-    "Git e Github/Git.md",
     "Banco de Dados",
     "Codigos/Backend/Projeto 1/node_modules/setprototypeof/index.d.ts",
     "Codigos/Backend/Projeto 1/node_modules/express-async-errors/yarn.lock",
@@ -207,7 +204,6 @@
     "Codigos/Backend/Projeto 1/node_modules/express-async-errors/package.json",
     "Codigos/Backend/Projeto 1/node_modules/express-async-errors",
     "Codigos/Backend/node_modules/qs/dist/qs.js",
-    "Codigos/Backend/node_modules/qs/dist",
     "Codigos/Basico/Projeto 6/assets/camera.svg",
     "Codigos/Basico/Projeto 6/assets/avatar.png",
     "Codigos/Basico/Projeto 5/image 1.jpg",
