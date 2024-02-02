@@ -1,0 +1,2 @@
+É um padrão de mercado que define um token no formato JSON para a troca de informações.
+JWT não representa o mecanismo de [[autenticação]]. Mas é um meio para a troca de informações no fluxo de autenticação.

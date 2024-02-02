@@ -7,3 +7,5 @@ Middleware pode:
 - Fazer mudanças nos objetos de solicitação e reposta
 - Encerrar o ciclo de solicitação-resposta
 - Chamar o próximo middleware na pilha
+
+É possível fazer middlewares para [[Autorização]], [[Autenticação]] ou qualquer outra função necessária.

@@ -1,5 +1,5 @@
 Desenvolvido para melhorar a maneira que lidamos com CSS nos componentes de aplicações [[React]].
-
+É possível utilizar um [[Tema global]] no projeto.
 ## Vantagens
 
 `Sem colisão de classes`: fornece nomes de classes a prova de colisão.

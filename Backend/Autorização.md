@@ -1,0 +1,1 @@
+Autorização é o processo de verificar se o usuário tem permissão para acessar uma área de uma aplicação ou executar ações específicas. A autorização pode conceder ou negar permissão para realizar tarefas ou acessar áreas de uma aplicação.

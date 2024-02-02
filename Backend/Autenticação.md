@@ -1,0 +1,1 @@
+Autenticação é o processo de verificação das credenciais de um usuário para provar que o usuário é quem diz ser. Se as credenciais corresponderem, você concederá acesso. Se não, você nega.

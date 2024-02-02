@@ -4,16 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "89d52178fa061970",
+        "id": "c960d33fa09c2d38",
         "type": "tabs",
         "children": [
           {
-            "id": "1f6d6311e82b84ad",
+            "id": "67c739bc7e76f5b6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "1c7d247e122021a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2023-12-18.md",
+                "file": "Backend/Controllers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e8a6a5ea3d1a319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Middleware.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/2023-12-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/2023-12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Logs/2023-12-18.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,49 +183,51 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f6d6311e82b84ad",
+  "active": "67c739bc7e76f5b6",
   "lastOpenFiles": [
-    "Logs/2023-12-18.md",
-    "Logs/2023-12-17.md",
-    "Basico/HTML/Single Page Application (SPA).md",
-    "Basico/JavaScript/CSS-in-JS.md",
-    "Frontend/Componentes.md",
-    "Frontend/Styled Components/Styled Components.md",
-    "Frontend/React.md",
+    "Backend/Middleware.md",
+    "Backend/Autorização.md",
+    "Backend/Controllers.md",
+    "Backend/Inversão de Dependencias.md",
+    "Testes Automatizados.md",
+    "Backend/JWT.md",
+    "Backend/Autenticação.md",
     "Frontend/Frontend.md",
-    "Basico/CSS/Responsividade.md",
+    "Frontend/Styled Components/Styled Components.md",
     "Frontend/Styled Components/Tema global.md",
+    "Frontend/Styled Components/Responsividade com Styled Components.md",
+    "Backend/Backend.md",
+    "Backend/Parâmetros de Requisições/Body Params.md",
+    "Backend/Parâmetros de Requisições",
+    "Backend/Parâmetros de Requisições/Query Params.md",
+    "Backend/Parâmetros de Requisições/Route Params.md",
+    "Backend/API Restful.md",
+    "Backend/API.md",
+    "Git e Github/Estágios do Arquivo.canvas",
+    "images/Pasted image 20231223202929.png",
+    "images",
+    "images/Pasted image 20231223202645.png",
+    "Git e Github/Git.md",
+    "Frontend/Componentes.md",
+    "Frontend/Hooks.md",
+    "Frontend/LocalStorage.md",
+    "Frontend/React.md",
+    "Frontend/React Context.md",
+    "Logs/2024-01-29.md",
+    "Logs/2023-12-23.md",
+    "Logs/2023-12-22.md",
+    "Backend/Métodos HTTP",
+    "images/Estrutura Inicial de um projeto.png",
     "Frontend/Styled Components",
     "Frontend",
-    "Backend/Backend.md",
-    "Basico/Sites Interessantes.md",
-    "Backend/Controllers.md",
-    "Backend/Body Params.md",
-    "Backend/API.md",
-    "Basico/JavaScript/DOM.md",
-    "Basico/JavaScript/ES Modules.md",
-    "Backend/Middleware.md",
-    "Backend/Método PUT.md",
-    "Backend/Método POST.md",
-    "Backend/Método GET.md",
-    "Backend/Método DELETE.md",
-    "Backend/Estrutura Inicial de um projeto.png",
-    "Basico/CSS/Media Queries.md",
-    "Banco de Dados/Criação básica de um banco de dados.md",
-    "Banco de Dados/Banco de Dados.md",
-    "Backend/Node.js.md",
     "Banco de Dados",
     "Codigos/Backend/Projeto 1/node_modules/setprototypeof/index.d.ts",
     "Codigos/Backend/Projeto 1/node_modules/express-async-errors/yarn.lock",
     "Codigos/Backend/Projeto 1/node_modules/express-async-errors/test.js",
     "Codigos/Backend/Projeto 1/node_modules/express-async-errors/index.js",
-    "Codigos/Backend/Projeto 1/node_modules/express-async-errors/package.json",
-    "Codigos/Backend/Projeto 1/node_modules/express-async-errors",
-    "Codigos/Backend/node_modules/qs/dist/qs.js",
     "Codigos/Basico/Projeto 6/assets/camera.svg",
     "Codigos/Basico/Projeto 6/assets/avatar.png",
     "Codigos/Basico/Projeto 5/image 1.jpg",
-    "Git e Github/Estágios do Arquivo.canvas",
     "Sem título 1.canvas",
     "Codigos/Projeto 6/assets/avatar.png",
     "Codigos/Projeto 6/assets/Jojo.png",
