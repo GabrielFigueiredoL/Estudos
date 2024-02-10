@@ -50,3 +50,27 @@ div { 
 ```
 
 sr-only
+### Botão aparecer quando algo da caixa receber foco
+```html
+<div>
+	<input type="text" />
+	<footer>
+		<button type="submit">Concluir</button>
+	</footer>
+</div>
+```
+```css
+footer {
+	visibility: hidden;
+	max-height: 0;
+}
+
+div:focus-within footer {
+	visibility: visible;
+	max-height: none;
+}
+```
+
+[[JavaScript]]
+
+- Colocar title quando o botão for apenas um ícone, ajuda em leitores de tela;

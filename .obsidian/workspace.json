@@ -18,30 +18,19 @@
             }
           },
           {
-            "id": "1c7d247e122021a6",
+            "id": "716081233c937129",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Controllers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e8a6a5ea3d1a319",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/Middleware.md",
+                "file": "2024-02-10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-02-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-02-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-02-10.md"
+              }
             }
           },
           {
@@ -183,8 +176,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "67c739bc7e76f5b6",
+  "active": "716081233c937129",
   "lastOpenFiles": [
+    "Frontend/React-Router-DOM.md",
+    "2024-02-10.md",
+    "Logs/2024-02-08.md",
+    "Logs/2024-02-06.md",
+    "Utilidades.md",
+    "Sem título.canvas",
+    "TypeScript.md",
+    "Logs/2024-02-02.md",
+    "Frontend/React.md",
+    "Basico/Clean Code.md",
+    "Basico/CSS/Variaveis.md",
+    "Basico/CSS/Responsividade.md",
+    "Basico/CSS/Media Queries.md",
+    "Basico/CSS/CSS.md",
+    "Logs/2024-01-29.md",
+    "2024-02-02.md",
+    "CSS Tricks.md",
     "Backend/Middleware.md",
     "Backend/Autorização.md",
     "Backend/Controllers.md",
@@ -195,27 +205,11 @@
     "Frontend/Frontend.md",
     "Frontend/Styled Components/Styled Components.md",
     "Frontend/Styled Components/Tema global.md",
-    "Frontend/Styled Components/Responsividade com Styled Components.md",
-    "Backend/Backend.md",
-    "Backend/Parâmetros de Requisições/Body Params.md",
     "Backend/Parâmetros de Requisições",
-    "Backend/Parâmetros de Requisições/Query Params.md",
-    "Backend/Parâmetros de Requisições/Route Params.md",
-    "Backend/API Restful.md",
-    "Backend/API.md",
     "Git e Github/Estágios do Arquivo.canvas",
     "images/Pasted image 20231223202929.png",
     "images",
     "images/Pasted image 20231223202645.png",
-    "Git e Github/Git.md",
-    "Frontend/Componentes.md",
-    "Frontend/Hooks.md",
-    "Frontend/LocalStorage.md",
-    "Frontend/React.md",
-    "Frontend/React Context.md",
-    "Logs/2024-01-29.md",
-    "Logs/2023-12-23.md",
-    "Logs/2023-12-22.md",
     "Backend/Métodos HTTP",
     "images/Estrutura Inicial de um projeto.png",
     "Frontend/Styled Components",

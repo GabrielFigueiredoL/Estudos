@@ -1,4 +1,5 @@
 ## Dicas de clean code para [[JavaScript]] e [[CSS]]
+- Criar variaveis para ifs
 
 - **Simples e direto**: seguindo o princípio de KISS (Keep It Simple Stupid), o código bem escrito deve ter o mínimo de complexidade possível, para que possa ser facilmente depurado e compreendido.
 - **Seco**: o código DRY “Don’t Repeat It” – conceito trazido por Andy Hunt, um dos autores do Manifesto Ágil -, é aquele sem ambiguidade, ou seja, se você já o inseriu em algum lugar no código-fonte, ele não deve ser implementado novamente.
